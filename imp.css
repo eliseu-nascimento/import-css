@@ -1,3 +1,11 @@
+body {
+    background: red;
+}
+
+body {
+    background: blue !important;
+}
+
 span {
     color: blue !important;
 }
